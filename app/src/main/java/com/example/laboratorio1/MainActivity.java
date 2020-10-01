@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                     Toast.makeText(MainActivity.this,"Complete los campos necesarios.",Toast.LENGTH_SHORT).show();
-
             }
         });
     }
